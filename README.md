@@ -9,4 +9,5 @@ Insights Uncovered:
 Certain cuisines tend to receive higher ratings and booking frequencies.
 Customers show stronger engagement with restaurants that support online ordering.
 Price ranges and vote counts vary significantly across restaurant types and regions. This project demonstrates proficiency in preprocessing, visual storytelling, and deriving business-friendly insights through Python. It's ideal for showcasing data wrangling and presentation skills with real-world relevance.
+
 Data Set Link: https://www.kaggle.com/code/akshitmadan/zomato-data-set-analysis-visualization
